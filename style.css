@@ -1,0 +1,30 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 99%;
+    margin-top: 5px;
+    font-size: 20px;
+}
+#start, #object, #play {
+    font-size: 18px;
+}
+#play{
+    margin-top: 15px;
+}
+.copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    position: fixed;
+    font-size: 18px;
+}
+canvas {
+    border-radius: 15px;
+    box-shadow: 7px 5px 2px white;
+    border: 3px solid beige;
+    margin-top: 80px;
+}
